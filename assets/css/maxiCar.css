@@ -1,0 +1,25 @@
+﻿.navbar-brand {
+    /*color: black !important;*/
+     font-weight: 900;
+}
+
+#masthead .menu, #masthead.menu, #navbar-slide.menu, .menu .navbar-brand {
+    display: block !important;
+    position: fixed !important;
+}
+
+/*#menu-main a{
+    color: black !important;
+}*/
+
+.slotholder div{
+   background-size: 100% 100% !important;
+}
+
+.contact-info-maxicar span{
+    color:white !important;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
